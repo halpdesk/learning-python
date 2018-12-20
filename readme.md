@@ -6,7 +6,7 @@ Tutorial to make a Python Django API with GraphQL
 
 * Django *hello world*: [https://docs.djangoproject.com/en/2.1/intro/tutorial01/](https://docs.djangoproject.com/en/2.1/intro/tutorial01/)
 * Django + graphene *hello world*: [https://docs.graphene-python.org/projects/django/en/latest/tutorial-plain/](https://docs.graphene-python.org/projects/django/en/latest/tutorial-plain/)
-* Django youtube tutorial [https://www.youtube.com/watch?v=FNQxxpM1yOs](https://www.youtube.com/watch?v=FNQxxpM1yOs)
+* Django youtube tutorial with sentdex [https://www.youtube.com/watch?v=FNQxxpM1yOs](https://www.youtube.com/watch?v=FNQxxpM1yOs)
 
 ## Installation
 
